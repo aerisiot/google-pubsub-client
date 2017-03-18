@@ -1,0 +1,2 @@
+# Specify credentials file of your App Engine service account.
+export GOOGLE_APPLICATION_CREDENTIALS=`pwd`/MyGoogleCloudProject.json
